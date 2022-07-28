@@ -1,0 +1,30 @@
+
+
+.btns{
+ position: relative;
+ left: -41px;
+}
+form{
+ width: 100%;
+}
+.maste{
+ background-size: cover;
+ min-height: 80vh;
+ filter: brightness(80%);
+ 
+}
+.carousel-caption{
+ 
+
+ padding: 0 20%;
+ padding-bottom: 15%;
+ padding-top: 15%;
+ 
+ 
+} 
+.text h1{
+ font-size: 4vw;
+}
+.text{
+ 
+}
